@@ -8,6 +8,8 @@
 - 👀 I’m interested in Front-End and Game Development.
 - 🌱 I’m currently learning JAVA.
 
+  ![](https://github.com/Clarke2302/Clarke2302/blob/main/giphy.gif)
+
   ❤️🧡💛💚💙💜
 
 <!---
