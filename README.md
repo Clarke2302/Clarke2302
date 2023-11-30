@@ -12,6 +12,9 @@
 
   ❤️🧡💛💚💙💜
 
+  ### Activity
+![Snake animation](https://github.com/Clarke2302/Clarke2302/blob/output/github-contribuition-grid-snake.svg)
+
 <!---
 Clarke2302/Clarke2302 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
