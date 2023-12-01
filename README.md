@@ -33,7 +33,7 @@
     <img src="https://skillicons.dev/icons?i=html,css,vscode,github,figma,git" />
     <img src="https://skillicons.dev/icons?i=javascript,java,mysql" /><br>
 
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Clarke2302/Clarke2302/output/github-contribution-grid-snake.svg" />
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Clarke2302/Clarke2302/output/github-contribution-grid-snake-dark.svg" />
 </div>
 
 
