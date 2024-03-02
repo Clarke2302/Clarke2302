@@ -6,14 +6,14 @@
 
 <div align="center">
 
-📚 Atualmente no 2º Semestre do Ensino Superior de ADS.
+📚 Atualmente no 3º Semestre do Ensino Superior de ADS.
 
 👀 Tenho interesse em Front-End e Desenvolvimento de Jogos.
 
 🌱 Atualmente estou aprendendo JAVA.
 
 -----------------------------------------------
-📚 Currently on the 2º Semester of college.
+📚 Currently on the 3º Semester of college.
 
 👀 I’m interested in Front-End and Game Development.
 
