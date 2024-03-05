@@ -13,7 +13,7 @@
 🌱 Atualmente estou aprendendo JAVA.
 
 -----------------------------------------------
-📚 Currently on the 3º Semester of college.
+📚 Currently on the 3th Semester of college.
 
 👀 I’m interested in Front-End and Game Development.
 
