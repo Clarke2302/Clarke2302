@@ -8,16 +8,16 @@
 
 📚 Atualmente no 3º Semestre do Ensino Superior de ADS.
 
-👀 Tenho interesse em Front-End e Desenvolvimento de Jogos.
+👀 Tenho interesse na área de Front-End e Desenvolvimento de Jogos.
 
-🌱 Atualmente estou aprendendo JAVA.
+🌱 Atualmente estou aprendendo JAVA, HTML & CSS.
 
 -----------------------------------------------
 📚 Currently on the 3th Semester of college.
 
 👀 I’m interested in Front-End and Game Development.
 
-🌱 I’m currently learning JAVA.
+🌱 I’m currently learning JAVA, HTML & CSS.
 
 📫 E-mail: cladreamer@outlook.com
 
