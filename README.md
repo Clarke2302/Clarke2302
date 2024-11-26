@@ -10,14 +10,14 @@
 
 👀 Tenho interesse na área de Front-End e Desenvolvimento de Jogos.
 
-🌱 Atualmente estou aprendendo JAVA, HTML & CSS.
+🌱 Atualmente estou aprendendo Python (Django), HTML & CSS.
 
 -----------------------------------------------
 📚 Currently on the 3th Semester of college.
 
 👀 I’m interested in Front-End and Game Development.
 
-🌱 I’m currently learning JAVA, HTML & CSS.
+🌱 I’m currently learning Python (Django), HTML & CSS.
 
 📫 E-mail: cladreamer@outlook.com
 
