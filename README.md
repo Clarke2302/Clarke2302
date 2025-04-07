@@ -6,18 +6,18 @@
 
 <div align="center">
 
-📚 Atualmente no 3º Semestre do Ensino Superior de ADS.
+📚 Atualmente no 5º Semestre do Ensino Superior de ADS.
 
 👀 Tenho interesse na área de Front-End e Desenvolvimento de Jogos.
 
-🌱 Atualmente estou aprendendo Python (Django), HTML & CSS.
+🌱 Atualmente estou aprendendo Python (Django), React.
 
 -----------------------------------------------
-📚 Currently on the 3th Semester of college.
+📚 Currently on the 5th Semester of college.
 
 👀 I’m interested in Front-End and Game Development.
 
-🌱 I’m currently learning Python (Django), HTML & CSS.
+🌱 I’m currently learning Python (Django), React.
 
 📫 E-mail: cladreamer@outlook.com
 
