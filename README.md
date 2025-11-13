@@ -2,7 +2,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Clarke+Brasil!;" />
 </h1>
 
-## Oi eu sou Clarke, programador(a) iniciante em Java, apaixonade por Front-End e Artista 🎨!
+## Oi eu sou Clarke, programador(a) iniciante em Python, apaixonade por Front-End e Artista 🎨!
 
 <div align="center">
 
